@@ -34,6 +34,9 @@ body {
       background-color: #121212;
       color: white;
     }
+    .darkMode h1{
+        color: #d3cdcd;
+    }
 
     
 
