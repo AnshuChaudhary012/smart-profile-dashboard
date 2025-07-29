@@ -1,0 +1,62 @@
+body {
+      font-family: Arial, sans-serif;
+      padding: 30px;
+      background-color: #f9f9f9;
+    }
+    .darkMode .container {
+      background-color: #1e1e1e;
+    }
+    .container {
+      max-width: 500px;
+      margin: auto;
+      padding: 20px;
+      background-color: white;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      border-radius: 10px;
+    }
+
+    
+    h1 {
+      color: #333;
+    }
+    .profile {
+      margin-top: 20px;
+    }
+    .label {
+      font-weight: bold;
+    }
+    /* Toggle Switch Style */
+    .toggle-container {
+      margin-top: 30px;
+      text-align: center;
+    }
+    .darkMode {
+      background-color: #121212;
+      color: white;
+    }
+
+    
+
+    
+    /* this is for input  */
+    input {
+      width: 95%;
+      padding: 8px;
+      margin-top: 5px;
+      margin-bottom: 15px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    /* for dark mode btn */
+    button {
+      padding: 10px 15px;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    /* when mouse is over the dark mode btn */
+    button:hover {
+        background-color: #436a94;
+    }
