@@ -1,7 +1,7 @@
 # Smart profile dashboard 
 This project show the your name and information.
 --
-##f eature 
+## feature 
 - Update name and information
 - Dark / Light modes
 - empty name can't be update
